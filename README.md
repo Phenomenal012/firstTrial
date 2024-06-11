@@ -1,2 +1,2 @@
-# firstTrial
-testing how to create a repository
+# firstTrial project
+testing how to create a repository session
